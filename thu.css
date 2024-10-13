@@ -1,0 +1,33 @@
+.container {
+    max-width: 900px;
+    padding: 50px;
+    margin: 0 auto;
+}
+.ros {
+    width: 900px;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 2);
+    
+}
+p {
+    text-align: center;
+    font: 1.5rem sans-serif;
+    margin-top: 150px;
+    margin-left: 200px;
+    width: 490px;
+    height: 60px;
+    border: solid 2px #000;
+    border-radius: 5%;
+    background-color: aliceblue;
+    position: absolute;
+}
+.btp {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 200px;
+    width: 490px;
+    height: 20px;
+    position: absolute;
+    
+}

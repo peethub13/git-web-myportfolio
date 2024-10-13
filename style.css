@@ -1,0 +1,140 @@
+.container {
+    max-width: 900px;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+.bio p {
+    text-align: center;
+}
+
+.logo {
+    width: 500px;
+    height: 500px;
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 2);
+}
+
+.container h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 50px;
+
+}
+
+.slogan {
+    text-align: center;
+    font-size: 1rem;
+}
+
+.social-icon ul {
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 50px;
+
+
+}
+
+.social-icon ul li {
+    list-style-type: none;
+    margin: 20px;
+    display: inline;
+}
+
+
+.fb :hover {
+    color: #016fff;
+    font-size: 2rem;
+    margin: -10px;
+}
+
+.ig :hover {
+    color: #ff01ff ;
+    font-size: 2rem;
+    margin: -10px;
+}
+
+.tt :hover{
+    color: #ffffff;
+    background: linear-gradient(#016fff);
+    text-shadow: #ff016b 2px 2px ;
+    font-size: 2rem;
+    margin: -10px;
+}
+
+i {
+    color: #000;
+    font-size: 1.5rem;
+}
+
+.ability {
+    text-align: center;
+}
+
+.html {
+    vertical-align: text-top;
+}
+
+.cpp {
+    vertical-align: text-top;
+    width: 25px;
+    height: 25px;
+    margin-bottom: 0.5rem;
+}
+
+.ma {
+    margin-top: 60px;
+}
+.something {
+    text-align: center;
+    
+}
+
+
+h5 {
+    /* text-decoration: underline  #333; */
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.row {
+    display: flex;
+}
+
+.something {
+    padding: 1rem;
+}
+
+hr {
+    width: 500px;
+    height: 1rem;
+}
+.small-line {
+    width: 50px;
+    margin: 10px auto;
+}
+.line-h {
+    margin-top: 100px;
+}
+
+.ctfc  {
+    text-align: center;
+    margin: 10px auto;
+    padding: 5px ;
+}
+.something  {
+    text-align: center;
+    margin: 10px auto;
+    padding: 5px ;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #ffff;
+}
